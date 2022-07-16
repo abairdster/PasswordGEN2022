@@ -1,8 +1,6 @@
 # <center>*Password Generator*</center>
 
 
-![Screenshot of HTML output](https://)
-
 
 ##### <center>*Description*</center>
 
